@@ -5,6 +5,7 @@ This application allows you to add, view, update, and delete student records in 
 📸 App Preview – Student Management System
 
 ![image alt](https://github.com/nagesh-makanapur/Express-pug-students/blob/ea46910ce5bff2173e9c311ffb82b55082b1121f/Express-pug-students/Snapshots/Preview%20.png)
+![image alt](https://github.com/nagesh-makanapur/Express-pug-students/blob/482236cd98145129c93111c3babdfda8c6afdd1d/Express-pug-students/Snapshots/2.png)
 
 
 📌 Features
